@@ -1,7 +1,7 @@
 # 🎬 Netflix Infographic
 Welcome to the Netflix Infographic project! 🎉 This is a dynamic data viz project where you can dive into Netflix movies and TV shows, exploring everything from countries filmed to release dates, genres, ratings, frequent cast members, and directors. Get ready to explore the world of Netflix in a whole new way! 🌍🍿
 
-This repo contains the Tableau file **and** a [preprocessing Python notebook](preprocessing.ipynb) to prep the data before the magic happens.
+This repo contains the Tableau file **and** a [preprocessing Python notebook](Preprocessing.ipynb) to prep the data before the magic happens.
 
 ## 📊 Dataset
 The original dataset has 12 columns and 8,807 rows of juicy Netflix info—each row representing either a movie or a TV show. You’ll find details like:
