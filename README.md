@@ -53,8 +53,8 @@ There's a "Select Year" parameter, which lets you switch between years dynamical
 4. **Min/Max TV Shows**: Uses window functions to find min and max TV show counts.
 
 ## 🙏 Acknowledgments
-This project was made possible using an awesome Netflix dataset sourced from Kaggle. 🎉
+This project uses Airbnb data sourced from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows).
 
 ## 📸 Screenshots
-_Stay tuned—visual goodies coming soon!_
-
+![Movies Dashboard](png/MoviesDashboard.JPG)
+![TV Shows Dashboard](png/TVShowsDashboard.JPG)
